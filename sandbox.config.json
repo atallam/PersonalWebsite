@@ -1,10 +1,4 @@
 {
   "template": "vite",
-  "node": "18",
-  "container": {
-    "node": "18"
-  },
-  "environment": {
-    "node": "18"
-  }
+  "node": "18"
 }
